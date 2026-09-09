@@ -1,2 +1,2 @@
-                int gpus = min(day, k);
+        int ans = INT_;
 
