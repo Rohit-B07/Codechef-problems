@@ -1,2 +1,3 @@
-                break;
+    cin.tie(nullptr);
+
 
