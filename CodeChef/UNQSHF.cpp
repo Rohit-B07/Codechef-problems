@@ -1,2 +1,2 @@
-            if(s1[i]==)
+        if(countas1)
 
