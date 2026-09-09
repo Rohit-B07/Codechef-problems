@@ -1,2 +1,2 @@
-        int profit = 0
+                // Mining
 
