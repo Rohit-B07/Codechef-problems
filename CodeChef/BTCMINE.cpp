@@ -1,2 +1,2 @@
-                if (day <= k) {
+        cout << ans << '\n';
 
