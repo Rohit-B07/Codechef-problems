@@ -1,3 +1,3 @@
-    cin.tie(nullptr);
-
+    scanf("%d", &T);
+    while(T--){
 
