@@ -1,2 +1,2 @@
-                profit += 1 * Y * gpus * gpus);
+                profit +=  Y * gpus * gpus;
 
