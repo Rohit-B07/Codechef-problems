@@ -1,2 +1,2 @@
-        cout << ans << '\n';
+                profit += 1 * Y * gpus * gpus);
 
