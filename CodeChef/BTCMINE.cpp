@@ -1,0 +1,2 @@
+        int profit = 0
+
