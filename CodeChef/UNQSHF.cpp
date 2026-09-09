@@ -1,2 +1,2 @@
-        cin >> a >> s1 >> s2;
+        for(int i = 0 ; i < s.size())
 
