@@ -1,2 +1,2 @@
-            cout<<it.second + 1
+            mp[i]++;
 
