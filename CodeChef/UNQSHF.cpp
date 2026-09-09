@@ -1,2 +1,2 @@
-        for(int i = 0 ; i < s.size())
+            if(s1[i]==)
 
