@@ -1,2 +1,2 @@
-            cout << b;
+            cout << b <<endl;
 
