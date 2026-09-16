@@ -1,2 +1,2 @@
-        long long SR = 0, SB = 0;
+```cppits/stdc++.h>
 
