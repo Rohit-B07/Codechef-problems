@@ -1,3 +1,2 @@
-            cin >> v[i];
-
+#include <bits/stdc++.h>
 
