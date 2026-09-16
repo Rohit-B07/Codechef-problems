@@ -1,2 +1,2 @@
-            cout << b <<endl;
+            cout << b/a <<endl;
 
