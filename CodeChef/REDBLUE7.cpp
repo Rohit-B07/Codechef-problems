@@ -1,2 +1,2 @@
-        for(int i =0 ; i < v.size())
+        int SR = 0 , SB = 0;
 
