@@ -1,2 +1,2 @@
-#include <bits/stdc++.h>
+                blue.push_back(v[j]);
 
