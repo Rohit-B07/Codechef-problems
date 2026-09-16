@@ -1,2 +1,2 @@
-                b--;
+                cout << count << endl;
 
