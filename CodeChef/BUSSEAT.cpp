@@ -1,2 +1,2 @@
-            cout << b/a <<endl;
+        else if(b<a){
 
