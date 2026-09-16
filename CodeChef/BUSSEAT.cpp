@@ -1,2 +1,2 @@
-        else if(b<a){
+            cout << count << endl
 
