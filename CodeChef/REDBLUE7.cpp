@@ -1,2 +1,3 @@
-```cppits/stdc++.h>
+            cin >> v[i];
+
 
