@@ -1,2 +1,2 @@
-        vector<int>v;
+        sort(v.beign(),v.end());
 
