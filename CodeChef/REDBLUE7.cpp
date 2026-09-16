@@ -1,2 +1,2 @@
-        for(int i = mid+)
+        for(int i =0 ; i < v.size())
 
