@@ -1,2 +1,2 @@
-        int SR = 0 , SB = 0;
+        sort(v.beign(),v.end());
 
